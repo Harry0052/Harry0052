@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harry0052, I am 18 and just started college, I have been interested in software engineering since high school abut have only used languages like HTML, CSS, and some Python.
+- 👋 Hi, I’m @Harry0052, I am 18 and just started college, I have been interested in software engineering since high school,I have only used languages like HTML, CSS, and  Python.
 - 👀 I’m interested in learning code and finding jobs in the tech industry
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any projects 
